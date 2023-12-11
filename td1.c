@@ -10,3 +10,11 @@ short p;
 unsigned int i;
 int d;
 };
+
+int main ()
+{
+  while(1)
+    {
+          printf("Je fais un peu ce que je veux");
+    }
+}
